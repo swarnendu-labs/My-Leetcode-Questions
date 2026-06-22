@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0044-wildcard-matching) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
