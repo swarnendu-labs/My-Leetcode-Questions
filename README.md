@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0049-group-anagrams) |
+| [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0049-group-anagrams) |
+| [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 ## Simulation
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0048-rotate-image) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
