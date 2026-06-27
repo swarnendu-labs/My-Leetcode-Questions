@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0078-subsets) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0078-subsets) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
