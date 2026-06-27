@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 ## Simulation
 |  |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
