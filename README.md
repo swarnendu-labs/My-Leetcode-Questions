@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0075-sort-colors) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0075-sort-colors) |
 ## Matrix
 |  |
 | ------- |
