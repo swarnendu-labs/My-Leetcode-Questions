@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Memoization
 |  |
 | ------- |
