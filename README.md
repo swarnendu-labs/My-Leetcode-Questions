@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
 | ------- |
