@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [3620-network-recovery-pathways](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
 ## Stack
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Simulation
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 ## Sorting
 |  |
 | ------- |
