@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 ## Combinatorics
 |  |
 | ------- |
