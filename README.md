@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0148-sort-list) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Matrix
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0148-sort-list) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
 |  |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0148-sort-list) |
 ## Combinatorics
 |  |
 | ------- |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0148-sort-list) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
 |  |
