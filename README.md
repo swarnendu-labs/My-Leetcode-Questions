@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String
 |  |
 | ------- |
