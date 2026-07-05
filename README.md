@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0485-max-consecutive-ones](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1470-shuffle-the-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
