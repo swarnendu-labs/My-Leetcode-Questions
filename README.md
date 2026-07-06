@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0140-word-break-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Simulation
