@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [1288-remove-covered-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0204-count-primes) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0204-count-primes) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Tree
 |  |
@@ -570,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0185-department-top-three-salaries) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
