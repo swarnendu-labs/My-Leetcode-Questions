@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0202-happy-number) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0202-happy-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
