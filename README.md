@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0485-max-consecutive-ones](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [1288-remove-covered-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0220-contains-duplicate-iii) |
 | [1288-remove-covered-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0220-contains-duplicate-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -657,4 +660,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
