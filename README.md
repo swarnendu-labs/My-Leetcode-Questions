@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0218-the-skyline-problem) |
 | [0485-max-consecutive-ones](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [1288-remove-covered-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0218-the-skyline-problem) |
 | [1288-remove-covered-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0218-the-skyline-problem) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
 |  |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0218-the-skyline-problem) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0218-the-skyline-problem) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
@@ -637,4 +642,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
