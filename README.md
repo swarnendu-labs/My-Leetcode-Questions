@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
