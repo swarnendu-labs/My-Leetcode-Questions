@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0223-rectangle-area) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0223-rectangle-area) |
 ## Iterator
 |  |
 | ------- |
