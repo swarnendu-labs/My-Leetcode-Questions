@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [1288-remove-covered-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [1288-remove-covered-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
