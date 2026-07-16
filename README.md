@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0231-power-of-two) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
