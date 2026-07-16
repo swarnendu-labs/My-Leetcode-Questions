@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0233-number-of-digit-one) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0233-number-of-digit-one) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0233-number-of-digit-one) |
 ## Backtracking
 |  |
 | ------- |
