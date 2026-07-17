@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -654,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
