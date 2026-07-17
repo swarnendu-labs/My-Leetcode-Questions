@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [1288-remove-covered-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0268-missing-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -461,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0268-missing-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
