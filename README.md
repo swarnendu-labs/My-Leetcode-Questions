@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0263-ugly-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
