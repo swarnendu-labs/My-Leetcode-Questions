@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Segment Tree
 |  |
 | ------- |
