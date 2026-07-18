@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0290-word-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0282-expression-add-operators) |
+| [0290-word-pattern](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0290-word-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
