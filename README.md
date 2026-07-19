@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0292-nim-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -818,4 +819,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0274-h-index) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
