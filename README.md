@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [1288-remove-covered-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
@@ -736,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0284-peeking-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -827,4 +831,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0292-nim-game) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
