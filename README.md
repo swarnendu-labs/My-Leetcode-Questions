@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0299-bulls-and-cows) |
+| [0306-additive-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0306-additive-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0282-expression-add-operators) |
+| [0306-additive-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0306-additive-number) |
 ## Sorting
 |  |
 | ------- |
