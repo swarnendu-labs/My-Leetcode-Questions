@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0313-super-ugly-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0485-max-consecutive-ones](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [1260-shift-2d-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0316-remove-duplicate-letters) |
+| [0318-maximum-product-of-word-lengths](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
 ## Binary Search
 |  |
 | ------- |
