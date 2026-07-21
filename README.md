@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0330-patching-array) |
 | [0485-max-consecutive-ones](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [1260-shift-2d-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0324-wiggle-sort-ii) |
+| [0330-patching-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0330-patching-array) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Recursion
