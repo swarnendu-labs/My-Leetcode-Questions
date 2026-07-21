@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0334-increasing-triplet-subsequence) |
+| [0335-self-crossing](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0335-self-crossing) |
 | [0485-max-consecutive-ones](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [1260-shift-2d-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0335-self-crossing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -839,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0223-rectangle-area) |
+| [0335-self-crossing](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0335-self-crossing) |
 ## Iterator
 |  |
 | ------- |
