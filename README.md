@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0336-palindrome-pairs) |
 | [0485-max-consecutive-ones](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [1260-shift-2d-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0299-bulls-and-cows) |
+| [0336-palindrome-pairs](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0336-palindrome-pairs) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0332-reconstruct-itinerary) |
+| [0336-palindrome-pairs](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0336-palindrome-pairs) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -820,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0336-palindrome-pairs) |
 ## Design
 |  |
 | ------- |
@@ -885,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0214-shortest-palindrome) |
+| [0336-palindrome-pairs](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0336-palindrome-pairs) |
 ## Quickselect
 |  |
 | ------- |
