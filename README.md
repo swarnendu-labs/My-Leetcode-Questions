@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0343-integer-break) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0343-integer-break) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
