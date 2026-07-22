@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0335-self-crossing) |
+| [0342-power-of-four](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0342-power-of-four) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0342-power-of-four) |
 ## Backtracking
 |  |
 | ------- |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
