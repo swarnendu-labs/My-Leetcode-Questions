@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
