@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0372-super-pow) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0327-count-of-range-sum) |
+| [0372-super-pow](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0372-super-pow) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
 |  |
