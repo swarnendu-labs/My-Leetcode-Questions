@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0365-water-and-jug-problem) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0365-water-and-jug-problem) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0365-water-and-jug-problem) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
