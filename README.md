@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0365-water-and-jug-problem) |
+| [0367-valid-perfect-square](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0367-valid-perfect-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0367-valid-perfect-square](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0367-valid-perfect-square) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
