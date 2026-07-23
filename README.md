@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0357-count-numbers-with-unique-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0357-count-numbers-with-unique-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0357-count-numbers-with-unique-digits) |
 ## Sorting
 |  |
 | ------- |
