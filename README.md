@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0383-ransom-note](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0383-ransom-note) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
