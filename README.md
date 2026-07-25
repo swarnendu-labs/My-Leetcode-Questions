@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0321-create-maximum-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
+| [0385-mini-parser](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0385-mini-parser) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0383-ransom-note) |
+| [0385-mini-parser](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0385-mini-parser) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0365-water-and-jug-problem) |
+| [0385-mini-parser](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0385-mini-parser) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
