@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0385-mini-parser) |
+| [0388-longest-absolute-file-path](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0388-longest-absolute-file-path) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0388-longest-absolute-file-path) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0386-lexicographical-numbers) |
+| [0388-longest-absolute-file-path](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0388-longest-absolute-file-path) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
