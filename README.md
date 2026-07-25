@@ -727,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0386-lexicographical-numbers) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
@@ -914,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0336-palindrome-pairs) |
+| [0386-lexicographical-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0386-lexicographical-numbers) |
 ## Design
 |  |
 | ------- |
