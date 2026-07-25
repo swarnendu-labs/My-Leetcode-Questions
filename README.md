@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0390-elimination-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0390-elimination-game) |
 ## Backtracking
 |  |
 | ------- |
