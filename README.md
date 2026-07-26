@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1260-shift-2d-grid) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0396-rotate-function) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
