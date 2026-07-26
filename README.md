@@ -778,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0388-longest-absolute-file-path) |
 | [0399-evaluate-division](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0399-evaluate-division) |
+| [0404-sum-of-left-leaves](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
+| [0404-sum-of-left-leaves](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0337-house-robber-iii) |
+| [0404-sum-of-left-leaves](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -904,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0399-evaluate-division) |
+| [0404-sum-of-left-leaves](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
