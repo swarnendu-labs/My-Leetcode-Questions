@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0401-binary-watch](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0401-binary-watch) |
 ## Sorting
 |  |
 | ------- |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0401-binary-watch) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search
