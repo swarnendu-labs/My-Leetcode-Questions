@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search
