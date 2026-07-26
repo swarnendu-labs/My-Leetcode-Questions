@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0399-evaluate-division) |
 | [0485-max-consecutive-ones](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1260-shift-2d-grid) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0399-evaluate-division) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0388-longest-absolute-file-path) |
+| [0399-evaluate-division](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0399-evaluate-division) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
@@ -890,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0365-water-and-jug-problem) |
+| [0399-evaluate-division](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0399-evaluate-division) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -900,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0130-surrounded-regions) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0399-evaluate-division](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0399-evaluate-division) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -926,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0399-evaluate-division) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -933,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
