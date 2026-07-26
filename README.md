@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0398-random-pick-index) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0398-random-pick-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1097,8 +1099,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0398-random-pick-index) |
 ## Reservoir Sampling
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
