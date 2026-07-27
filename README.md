@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1260-shift-2d-grid) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Recursion
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0400-nth-digit) |
+| [0410-split-array-largest-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -737,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0410-split-array-largest-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
