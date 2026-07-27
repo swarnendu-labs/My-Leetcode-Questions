@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0413-arithmetic-slices) |
 | [0485-max-consecutive-ones](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1260-shift-2d-grid) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0413-arithmetic-slices) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0413-arithmetic-slices) |
 ## Depth-First Search
 |  |
 | ------- |
