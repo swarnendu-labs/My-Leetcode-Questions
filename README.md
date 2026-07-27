@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1260-shift-2d-grid) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0406-queue-reconstruction-by-height) |
+| [0414-third-maximum-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
