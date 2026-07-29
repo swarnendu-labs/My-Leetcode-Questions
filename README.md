@@ -684,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0382-linked-list-random-node) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
@@ -837,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0419-battleships-in-a-board) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
@@ -1066,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Geometry
 |  |
 | ------- |
