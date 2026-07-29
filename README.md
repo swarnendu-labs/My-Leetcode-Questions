@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0415-add-strings) |
+| [0420-strong-password-checker](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0420-strong-password-checker) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
+| [0420-strong-password-checker](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0420-strong-password-checker) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Recursion
@@ -980,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0407-trapping-rain-water-ii) |
+| [0420-strong-password-checker](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0420-strong-password-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
