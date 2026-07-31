@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1260-shift-2d-grid) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
