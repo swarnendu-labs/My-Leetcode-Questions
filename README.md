@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1260-shift-2d-grid) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0456-132-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0456-132-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
@@ -787,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0456-132-pattern) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1204,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0456-132-pattern](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0456-132-pattern) |
 ## Bucket Sort
 |  |
 | ------- |
