@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0458-poor-pigs) |
+| [0464-can-i-win](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0464-can-i-win](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0461-hamming-distance) |
+| [0464-can-i-win](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0464-can-i-win) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search
@@ -823,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0464-can-i-win) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1264,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0464-can-i-win](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0486-predict-the-winner) |
 ## Data Stream
 |  |
@@ -1291,4 +1296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0382-linked-list-random-node](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0398-random-pick-index) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
