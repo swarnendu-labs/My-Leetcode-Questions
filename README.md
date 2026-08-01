@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0457-circular-array-loop) |
+| [0466-count-the-repetitions](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0466-count-the-repetitions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0464-can-i-win) |
+| [0466-count-the-repetitions](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0466-count-the-repetitions) |
 | [0486-predict-the-winner](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0459-repeated-substring-pattern) |
+| [0466-count-the-repetitions](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0466-count-the-repetitions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
