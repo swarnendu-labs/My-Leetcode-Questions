@@ -775,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0461-hamming-distance](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0461-hamming-distance) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search
