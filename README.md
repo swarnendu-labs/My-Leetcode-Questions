@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0470-implement-rand10-using-rand7](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0478-generate-random-point-in-a-circle) |
+| [0479-largest-palindrome-product](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0877-stone-game) |
@@ -943,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0204-count-primes) |
+| [0479-largest-palindrome-product](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0479-largest-palindrome-product) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
