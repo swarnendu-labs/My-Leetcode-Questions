@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0475-heaters) |
+| [0477-total-hamming-distance](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0464-can-i-win) |
 | [0470-implement-rand10-using-rand7](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0470-implement-rand10-using-rand7) |
+| [0477-total-hamming-distance](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0877-stone-game) |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0464-can-i-win) |
 | [0476-number-complement](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0477-total-hamming-distance) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search
