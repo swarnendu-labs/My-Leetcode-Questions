@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0477-total-hamming-distance) |
+| [0480-sliding-window-median](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0460-lfu-cache) |
+| [0480-sliding-window-median](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0480-sliding-window-median) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0480-sliding-window-median) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1112,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0480-sliding-window-median) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
