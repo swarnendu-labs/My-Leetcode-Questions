@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1260-shift-2d-grid) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0488-zuma-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0488-zuma-game) |
+| [0494-target-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1406-stone-game-iii) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0494-target-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -1379,4 +1382,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0493-reverse-pairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
