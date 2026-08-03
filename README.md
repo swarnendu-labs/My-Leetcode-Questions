@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0474-ones-and-zeroes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0486-predict-the-winner) |
+| [0488-zuma-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0488-zuma-game) |
 | [0877-stone-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1406-stone-game-iii) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0456-132-pattern) |
+| [0488-zuma-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0488-zuma-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0482-license-key-formatting) |
+| [0488-zuma-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0488-zuma-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -860,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0464-can-i-win) |
+| [0488-zuma-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0488-zuma-game) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1095,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0463-island-perimeter) |
+| [0488-zuma-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0488-zuma-game) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
