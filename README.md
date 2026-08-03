@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0495-teemo-attacking) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1260-shift-2d-grid) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0495-teemo-attacking) |
 | [1260-shift-2d-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
