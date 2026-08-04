@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0500-keyboard-row) |
+| [0502-ipo](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1260-shift-2d-grid) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0502-ipo) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0475-heaters) |
+| [0502-ipo](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -1161,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0502-ipo) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
