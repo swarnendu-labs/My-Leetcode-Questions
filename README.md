@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0498-diagonal-traverse](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1260-shift-2d-grid) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
