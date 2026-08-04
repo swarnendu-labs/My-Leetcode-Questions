@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0504-base-7](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1406-stone-game-iii) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0482-license-key-formatting) |
 | [0488-zuma-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0488-zuma-game) |
 | [0500-keyboard-row](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0504-base-7) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
