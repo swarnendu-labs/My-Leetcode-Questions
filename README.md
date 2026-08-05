@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
