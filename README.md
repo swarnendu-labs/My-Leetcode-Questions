@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0514-freedom-trail](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1406-stone-game-iii) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0504-base-7) |
 | [0514-freedom-trail](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
