@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0500-keyboard-row) |
+| [0519-random-flip-matrix](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0519-random-flip-matrix) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0509-fibonacci-number) |
+| [0519-random-flip-matrix](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0519-random-flip-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1406-stone-game-iii) |
@@ -1405,12 +1407,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0470-implement-rand10-using-rand7](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0519-random-flip-matrix](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0519-random-flip-matrix) |
 ## Reservoir Sampling
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0398-random-pick-index) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0519-random-flip-matrix](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0519-random-flip-matrix) |
 ## Bitmask
 |  |
 | ------- |
