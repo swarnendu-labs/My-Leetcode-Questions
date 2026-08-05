@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0488-zuma-game) |
 | [0494-target-sum](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0509-fibonacci-number) |
+| [0514-freedom-trail](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0514-freedom-trail) |
 | [0877-stone-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1406-stone-game-iii) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0488-zuma-game) |
 | [0500-keyboard-row](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0504-base-7) |
+| [0514-freedom-trail](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0514-freedom-trail) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0514-freedom-trail) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/3310-remove-methods-from-project) |
@@ -1146,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0463-island-perimeter) |
 | [0488-zuma-game](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0488-zuma-game) |
 | [0513-find-bottom-left-tree-value](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/0514-freedom-trail) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarnendu-labs/My-Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
